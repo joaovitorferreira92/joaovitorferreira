@@ -1,6 +1,9 @@
-##<h1 align="center">Hey 👋What's Up?</h1>
 
-###
+#<h1 align="center">hi👋,lm joao vitor</h1>
+
+💻 estudo Análise e Desenvolvimento de sistemas
+🚘Apaixonado por carros, tecnologia e desenvolvimento de soffware
+📚Atualmente estou desenvolvento um sistema de oficina mecanica em "C", sou espesalista em linux, cloud computing
 
 <div align="center">
 
@@ -20,7 +23,3 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-
-
-
